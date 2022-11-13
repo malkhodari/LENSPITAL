@@ -40,6 +40,7 @@ https://user-images.githubusercontent.com/62998803/201517326-3983d61f-830c-41f5-
 - LENS API
 - Python
 - Neural Networks
+- Figma
 
 ## Challenges we ran into
 - Bringing the idea into life in less than 24 hours
