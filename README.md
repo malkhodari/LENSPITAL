@@ -3,6 +3,7 @@
 #### A Professional and Interactive Social Media Platform for Medicine
 
 Promoting Patient-Specific Awareness and Monetizing Your Healthcare Data 
+- Took part at Oxford Hack 2022 hackathon: https://oxfordhack22.co.uk/
 
 ![logo_big](https://user-images.githubusercontent.com/62998803/201514620-e1fb1191-94b8-4525-aaa8-cf9566a3b447.png) ![logo_small](https://user-images.githubusercontent.com/62998803/201514625-fb6ae9c4-115e-43ce-8a01-188261ebce75.png)
 
@@ -17,6 +18,7 @@ We envision a social garden where, as the patients automatically and continuousl
 - Official Presentation (The Bells and Whistles): [OxfordHack_v3.pdf](https://github.com/malkhodari/LENSPITAL/files/9996924/OxfordHack_v3.pdf)
 - Google Drive (Too Big for Free Github :(): https://drive.google.com/drive/folders/1qbHEkbrXCHzPRKm8GN_FdDYxWaX3it3W
 - Interactive environment (Visualize our Web3 Metaverse): https://app.gather.town/invite?token=Jp7UuRFHSSq7V0Kjtf9C
+- Hackathon developers page: https://devpost.com/software/lenspital
 
 ## Problem Statement
 - Lack of professional social media platforms for healthcare
