@@ -6,10 +6,6 @@ Promoting Patient-Specific Awareness and Monetizing Your Healthcare Data
 
 ![logo_big](https://user-images.githubusercontent.com/62998803/201514620-e1fb1191-94b8-4525-aaa8-cf9566a3b447.png) ![logo_small](https://user-images.githubusercontent.com/62998803/201514625-fb6ae9c4-115e-43ce-8a01-188261ebce75.png)
 
-
-##Demo
-https://youtu.be/0awEf4a-eUE
-
 ## Inspiration
 Decentralized social graph platforms hold so much potential to enable privacy-focused precision medicine and federated learning without relying on mega-corporations. Statistically speaking, Health and Fitness app users number around 385 million worldwide, 2/3rds of US hospitals offer mobile health apps based interventions and 90% of physicians already use smartphones at work for patient follow-ups.
 
@@ -75,16 +71,15 @@ We programmed a prototype for the media platform and the interactive environment
 ## What's next for LENSPITAL
 - Further development on the prototype
 - Enhancing its features to simplify the integration of the healthcare sector within social media
+- Ensure HIPAA-compliance for data storage
+- Hash/Secure the User Identity
+- Find Non-Vendor Locked APIs for Healthcare Data for Connecting Smart Devices
+- POC/Pilot Study with Patients and Doctors to See Real-Life Value
+
 
 ## Team Members
 - Jayroop Ramesh | Department of Computer Science, University of Oxford • jayroop.ramesh@reuben.ox.ac.uk
 - Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
 
 ![image](https://user-images.githubusercontent.com/62998803/201515984-710bfe1c-53fb-4d00-8a89-659bf23ff522.png)
-## To-Do
-- Further development on the Prototype (i.e translate UI/UX into functioning plugin)
-- Ensure HIPAA-compliance for data storage
-- Hash/Secure the User Identity
-- Find Non-Vendor Locked APIs for Healthcare Data for Connecting Smart Devices
-- POC/Pilot Study with Patients and Doctors to See Real-Life Value
 
