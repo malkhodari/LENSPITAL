@@ -16,14 +16,45 @@ LENSPITAL is the next-level social media platform specialised for professional a
 - Gap in communication during a crisis with medical misinformation
 - Lack of awareness about personalised healthcare 
 
-## Solution
+## Current Situation
+- Health and Fitness apps 385 million users worldwide
+- Two-thirds of US hospitals offer mobile health apps
+- Around 90% of physicians already use smartphones at work
+- - Revenue increased by 54% especially during lockdown
 
-## Software Ingredients
+## What it does
+- Engaging people in public health and healthcare discussions
+- Spreading healthcare awareness with accurate medical information
+- Facilitating patients’ access to current and predicted health conditions
+- Supporting doctors, patients, and medical influencers with monetization
 
-## LENS API
-Python
-Neural Networks
+## How we develop it
+
+- LENS API
+- Python
+- Neural Networks
 
 ## Team Members
-Jayroop Ramesh | Department of Computer Science, University of Oxford • jayroop.ramesh@reuben.ox.ac.uk
-Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
+- Jayroop Ramesh | Department of Computer Science, University of Oxford • jayroop.ramesh@reuben.ox.ac.uk
+- Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
+
+## Challenges we ran into
+- Bringing the idea to life in less than 24 hours
+- Programming a prototype for the social media platform and the interactive environment
+
+## Accomplishments that we're proud of
+- Jayroop and Mohanad are 1st year DPhil students that started a month ago.
+- Building a working platform related to the LENS domain
+- Developing a prototype of how next-level social media platform should be- 
+- Enriching the medical value and computer programming within the era of social media
+
+## What we learned
+- Collaborative team work
+- Active programming, which is programming on-the-go
+- Developing actively working tools with minimum supervision
+
+## What's next for LENSPITAL
+- Further development on the prototype
+- Enhancing its features to simplify the integration of the healthcare sector within social media
+
+![image](https://user-images.githubusercontent.com/62998803/201515984-710bfe1c-53fb-4d00-8a89-659bf23ff522.png)
