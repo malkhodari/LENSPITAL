@@ -31,6 +31,10 @@ LENSPITAL is the next-level social media platform specialised for professional a
 - Facilitating patients’ access to current and predicted health conditions
 - Supporting doctors, patients, and medical influencers with monetization
 
+## Demo
+
+https://user-images.githubusercontent.com/62998803/201517326-3983d61f-830c-41f5-9e95-17b6ab0f67cb.mp4
+
 ## How we develop it
 
 - LENS API
@@ -61,8 +65,3 @@ LENSPITAL is the next-level social media platform specialised for professional a
 - Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
 
 ![image](https://user-images.githubusercontent.com/62998803/201515984-710bfe1c-53fb-4d00-8a89-659bf23ff522.png)
-
-
-https://user-images.githubusercontent.com/62998803/201517326-3983d61f-830c-41f5-9e95-17b6ab0f67cb.mp4
-
-
