@@ -20,7 +20,7 @@ LENSPITAL is the next-level social media platform specialised for professional a
 - Health and Fitness apps 385 million users worldwide
 - Two-thirds of US hospitals offer mobile health apps
 - Around 90% of physicians already use smartphones at work
-- - Revenue increased by 54% especially during lockdown
+- Revenue increased by 54% especially during lockdown
 
 ## What it does
 - Engaging people in public health and healthcare discussions
@@ -33,10 +33,6 @@ LENSPITAL is the next-level social media platform specialised for professional a
 - LENS API
 - Python
 - Neural Networks
-
-## Team Members
-- Jayroop Ramesh | Department of Computer Science, University of Oxford • jayroop.ramesh@reuben.ox.ac.uk
-- Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
 
 ## Challenges we ran into
 - Bringing the idea to life in less than 24 hours
@@ -56,5 +52,9 @@ LENSPITAL is the next-level social media platform specialised for professional a
 ## What's next for LENSPITAL
 - Further development on the prototype
 - Enhancing its features to simplify the integration of the healthcare sector within social media
+
+## Team Members
+- Jayroop Ramesh | Department of Computer Science, University of Oxford • jayroop.ramesh@reuben.ox.ac.uk
+- Mohanad Alkhodari | Radcliffe Department of Medicine, University of Oxford • mohanad.alkhodari@rdm.ox.ac.uk
 
 ![image](https://user-images.githubusercontent.com/62998803/201515984-710bfe1c-53fb-4d00-8a89-659bf23ff522.png)
