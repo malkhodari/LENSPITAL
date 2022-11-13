@@ -9,8 +9,10 @@ Promoting Patient-Specific Awareness and Monetizing Your Healthcare Data
 ## Inspiration
 LENSPITAL is the next-level social media platform specialised for professional and interactive healthcare. Ever thought of hearing misinformation about diseases especially during a crisis and becoming able of filtering them out through trusted social media influencers? LENSPITAL gathers all medical professionals, patients, and public audience to discuss and share healthcare news, thoughts, information, and data. Plus, it transforms regular social media to a more dynamic environment where users get to look into their future health conditions as well as others' and share with them their past experiecnes and thoughts! All in one interactive Web3 game-like interactive platform.
 
-## Link to Presentation
-[OxfordHack_v3.pdf](https://github.com/malkhodari/LENSPITAL/files/9996924/OxfordHack_v3.pdf)
+## Downloading Links
+Official presentation: [OxfordHack_v3.pdf](https://github.com/malkhodari/LENSPITAL/files/9996924/OxfordHack_v3.pdf)
+Google drive: https://drive.google.com/drive/folders/1qbHEkbrXCHzPRKm8GN_FdDYxWaX3it3W
+Interactive environment: https://app.gather.town/invite?token=Jp7UuRFHSSq7V0Kjtf9C
 
 ## Problem Statement
 - Lack of professional social media platforms for healthcare
