@@ -12,9 +12,9 @@ LENSPITAL is the next-level social media platform specialised for professional a
 ## Link to Presentation
 
 ## Problem Statement
-#H1 Lack of professional social media platforms for healthcare
-#H1 Gap in communication during a crisis with medical misinformation
-#H1 Lack of awareness about personalised healthcare 
+- Lack of professional social media platforms for healthcare
+- Gap in communication during a crisis with medical misinformation
+- Lack of awareness about personalised healthcare 
 
 ## Solution
 
